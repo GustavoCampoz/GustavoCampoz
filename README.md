@@ -1,10 +1,38 @@
-<h1 align="center">Hi 👋, I'm Gustavo Campos</h1>
-<h3 align="center">A novice developer looking for his place in the world of tech</h3>
+#  Olá! Bem-vindos ao meu perfil!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavohcampos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavohcampos/" height="30" width="40" /></a>
-</p>
+Seja muito bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim, meus projetos, minhas habilidades e como me contatar. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
+
+## Sobre mim
+
+Sou apaixonado por tecnologia desde pequeno sempre fui curioso sobre como as coisas funcionam, especialmente quando se trata de dispositivos, sistemas e programação. Tenho grande interesse por desenvolvimento mobile, internet das coisas e estou sempre em busca de aprender, evoluir e colaborar com projetos que gerem impacto. 
+Meu objetivo é crescer profissionalmente na área de desenvolvimento e transformar ideias em soluções reais.
+
+---
+
+## Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mongodb&logoColor=47A248)
+
+---
+
+## Conecte-se comigo
+
+Sinta-se à vontade para entrar em contato ou acompanhar meus projetos por meio das redes abaixo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](vhttps://www.linkedin.com/in/gustavohcampos/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/46999092011)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavohcamposdev@gmail.com)
+
+---
+
+##  Obrigada por visitar meu perfil!
+
+Se gostou de algum projeto, sinta-se à vontade para dar uma ⭐️ ou entrar em contato para colaborar!
